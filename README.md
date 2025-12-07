@@ -16,7 +16,9 @@ A Windows diagnostics engine built with Batch as the orchestrator and PowerShell
 
 ## 👾 Demo
 
-![Placeholder — Replace with your screenshot](assets/demo.png)
+<div align="center">
+  <img src="https://github.com/Sapphica/ShawnasCmdTools/blob/main/assets/menu.jpg" alt="Menu" width="720">
+</div>
 
 ---
 
